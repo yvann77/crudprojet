@@ -1,0 +1,56 @@
+{
+  "prof": [
+    {
+      "firstName": "Jaouad",
+      "lastName": "ASSABOUAR",
+      "speciality": "Informatique",
+      "id": "1"
+    },
+    {
+      "firstName": "Marc",
+      "lastName": "LEGRAND",
+      "checkbox": true,
+      "id": "2",
+      "etudiant": [
+        {
+          "studentfirstName": "Yvann",
+          "studentlastName": "DE SOUZA",
+          "id": "1"
+        },
+        {
+          "studentfirstName": "Florent",
+          "studentlastName": "ATAKORA",
+          "id": "2"
+        },
+        {
+          "studentfirstName": "Ilyes",
+          "studentlastName": "YAZI",
+          "id": "3"
+        }
+      ]
+    },
+    {
+      "firstName": "Tiago",
+      "lastName": "Alcantara",
+      "checkbox": true,
+      "id": "3",
+      "etudiant": [
+        {
+          "studentfirstName": "Test",
+          "studentlastName": "Test1",
+          "id": "1"
+        },
+        {
+          "studentfirstName": "Test2",
+          "studentlastName": "Test3",
+          "id": "2"
+        },
+        {
+          "studentfirstName": "Test4",
+          "studentlastName": "Test5",
+          "id": "3"
+        }
+      ]
+    }
+  ]
+}
